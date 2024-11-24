@@ -4,19 +4,24 @@
 🌱 성장을 멈추지 말자, 목표를 향해 꾸준히 전진하자  
 🔥 도전하는 것을 두려워하지 말고 새로운 것을 탐구하자  
 🤝 소통과 협업으로 더 나은 결과를 만들어내자  
-<br />
-## How i work
-항상 웃으며 일하고 싶습니다.
-<br />
-<br />
-## Skills
-#### I use it often.
-<div style="display:flex;gap:30px;flex-wrap:wrap;">
 
+<br />
+<br />
+
+## Skills
+#### Technologies I use frequently
+<div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-#### I've used it before.
+#### Technologies I use occasionally.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+</div>
 
 </div>
 <br />

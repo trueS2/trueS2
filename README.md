@@ -1,5 +1,5 @@
 ## true / 최진실
-1인분을 하는 개발자가 되겠습니다!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=200&section=header&text=TRUE's%20GITHUB&fontSize=50" />
 <br />
 <br />
 <br />

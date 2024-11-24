@@ -1,13 +1,9 @@
-## true / 최진실
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFFF00&height=200&section=header&text=TRUE's%20GITHUB&fontSize=50" />
-<br />
-<br />
-<br />
 
 ## My values
-😎 항상 열정 넘치게<br />
-👌 차근차근 배우자<br />
-🦻 주 80시간 공부하자<br />
+🌱 성장을 멈추지 말자, 목표를 향해 꾸준히 전진하자  
+🔥 도전하는 것을 두려워하지 말고 새로운 것을 탐구하자  
+🤝 소통과 협업으로 더 나은 결과를 만들어내자  
 <br />
 <br />
 <br />

@@ -8,6 +8,13 @@
 <br />
 <br />
 
+## Education and Academic Background
+🏫 숭실대학교 산업정보시스템공학과 졸업
+💻 카카오테크 부트캠프 클라우드 네이티브 in Jeju 1기
+
+## Awards
+🥇 카카오테크 부트캠프 클라우드 네이티브 in Jeju 파이널 프로젝트 최우수상
+
 ## Skills
 #### Technologies I use frequently
 <div style="display:flex;gap:30px;flex-wrap:wrap;">

@@ -7,9 +7,9 @@
 
 <br />
 
-## Education and Academic Background
-🏫 숭실대학교 산업정보시스템공학과 졸업
-💻 카카오테크 부트캠프 클라우드 네이티브 in Jeju 1기
+## Education and Academic Background  
+🏫 숭실대학교 산업정보시스템공학과 졸업  
+💻 카카오테크 부트캠프 클라우드 네이티브 in Jeju 1기  
 
 <br />
 
